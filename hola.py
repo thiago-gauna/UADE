@@ -15,3 +15,17 @@ git commit -m "comentario"
 
 
 """
+
+#registro
+
+"""
+git log
+
+"""
+
+#cambiar nombre rama ahora a main
+
+"""
+git branch -m main
+
+"""
