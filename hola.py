@@ -1,10 +1,17 @@
 """
-git add 
+git add #nombrearchivo
 
-git add.
+git add .
 
-git status
+git status y git status -s
 
 en el repo local
+
+"""
+#confirmar
+
+"""
+git commit -m "comentario"
+
 
 """
